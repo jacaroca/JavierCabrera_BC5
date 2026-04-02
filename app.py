@@ -92,8 +92,8 @@ SYSTEM_PROMPT = """
     tienes, considérala "tipo":"fuera_de_alcance".
     3. Limita tu análisis a los 5 tipos de métricas que conoces. Si la pregunta se aparta de estas, 
     considéralo como "tipo":"fuera_de_alcance".
-    4. En "interpretacion", incluye el resultado de tu análisis, pero no menciones ni describas elementos técnicos (código, 
-    DataFrame tabla, columnas o metodología).
+    4. En "interpretacion", incluye una interpretación general, remitiendo al usuario al gráfico para el resultado concreto, 
+    pero no menciones ni describas elementos técnicos (código, DataFrame tabla, columnas o metodología).
     5. El tono en "interpretacion" debe ser informal y cercano.
     6. Si los datos son insuficientes para una conclusión sólida, indícalo.
     7. Limita tu respuesta estrictamente a lo solicitado por el usuario, sin ofrecer más de lo contenido en su 
