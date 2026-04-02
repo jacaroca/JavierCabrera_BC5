@@ -2,8 +2,8 @@
 # CABECERA
 # ============================================================
 # Alumno: Javier Cabrera Roca
-# URL Streamlit Cloud: https://...streamlit.app
-# URL GitHub: https://github.com/...
+# URL Streamlit Cloud: https://javiercabrera-bc5-mda13.streamlit.app
+# URL GitHub: https://github.com/jacaroca/JavierCabrera_BC5
 
 # ============================================================
 # IMPORTS
