@@ -81,7 +81,7 @@ SYSTEM_PROMPT = """
     reason_start: motivo de inicio de la canción
     reason_end: motivo de fin de la canción
     shuffle: si el modo aleatorio estaba activado
-    skipped: si la cancion se saltó
+    skipped: si la canción se saltó. Es de tipo booleano (True = saltada, False = no saltada)
     Razones de comienzo de canción: {reason_start_values}
     Razones de fin de canción: {reason_end_values}
 
