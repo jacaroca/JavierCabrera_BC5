@@ -95,8 +95,7 @@ SYSTEM_PROMPT = """
     pero no menciones ni describas elementos técnicos (código, DataFrame tabla, columnas o metodología).
     5. El tono en "interpretacion" debe ser informal y cercano.
     6. Si los datos son insuficientes para una conclusión sólida, indícalo.
-    7. Limita tu respuesta estrictamente a lo solicitado por el usuario, sin ofrecer más de lo contenido en su 
-    pregunta y sin realizar inferencias inventadas.
+    7. No ofrezcas más de lo contenido en la pregunta y no realices inferencias inventadas.
                                         
     ## FORMATO DE RESPUESTA:
     - Devolverás un string en formato JSON con esta forma:
