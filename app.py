@@ -81,7 +81,7 @@ SYSTEM_PROMPT = """
     reason_start: motivo de inicio de la canción
     reason_end: motivo de fin de la canción
     shuffle: si el modo aleatorio estaba activado
-    skipped: si la cancion se saltó, reflejando que el usuario no quería escucharla o quería escuchar otra canción
+    skipped: si la cancion se saltó
     Razones de comienzo de canción: {reason_start_values}
     Razones de fin de canción: {reason_end_values}
 
